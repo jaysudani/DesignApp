@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DesignApp</string>
+    <string name="category">Category <font color='#FF0000'>*</font></string>
+    <string name="locality">Locality <font color='#FF0000'>*</font></string>
+    <string name="comments">Comments <font color='#FF0000'>*</font></string>
+
+</resources>
